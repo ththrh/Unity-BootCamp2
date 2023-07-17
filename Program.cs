@@ -10,7 +10,7 @@ namespace L20230717
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("djfuqsp..");
         }
     }
 }
